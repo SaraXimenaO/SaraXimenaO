@@ -1,6 +1,6 @@
 ### Hola a todos 👋
 
-**Soy una desarrolladora de software en tecnologías .Net,  Angular, BotFramework, Azure y Sql** 
+**Soy una desarrolladora de software en tecnologías .Net, Azure y Sql** 
 
 Me encanta aprender cosas nuevas y los proyectos retadores!
 
