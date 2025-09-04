@@ -1,6 +1,6 @@
 # Hola a todos 👋
 
-## Soy una desarrolladora de software en tecnologías  .NET, Angular, SQL Server y Azure.
+## Soy Ingeniera de software en tecnologías  .NET, Angular, SQL Server y Azure.
 
 Me encanta aprender cosas nuevas y los proyectos retadores!
 
