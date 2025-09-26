@@ -52,6 +52,3 @@
     Gemini
     Grok
     
-  Desarrollo guiado por Clean code y Principios SOLID
-    
-Me encanta aprender cosas nuevas y los proyectos retadores!
