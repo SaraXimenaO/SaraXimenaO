@@ -11,11 +11,11 @@
     Con lenguaje de programación C#
   ### Angular 
     Versiones: 14, 15, 19
-  SQL Server
+  ### SQL Server
     Creación de objetos (Procedimientos almacenados, funciones, tablas, triggers, vistas etc.) y consultas Sql
-  Oracle
+  ### Oracle
     Creación de objetos (Procedimientos almacenados, funciones, tablas, triggers, vistas etc.) y consultas Sql
-  Azure
+  ### Azure
     Almacenamiento
       TableStorage
       BlobStorage
