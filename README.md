@@ -9,7 +9,7 @@
     .Net Framework 8
     .Net Framework 9
     Con lenguaje de programación C#
-  Angular 
+  ### Angular 
     Versiones: 14, 15, 19
   SQL Server
     Creación de objetos (Procedimientos almacenados, funciones, tablas, triggers, vistas etc.) y consultas Sql
