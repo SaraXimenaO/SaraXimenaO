@@ -36,5 +36,14 @@
     Singleton
     Mediator
     Dependency injection
+  ### Tests
+    Patrón Arrange-Act-Assert 
+    Test unitarios .net
+      Xunit
+      Libreria Moq
+    Test unitarios Angular
+      Jasmine
+
+  Desarrollo guiado por Clean code y Principios SOLID
     
 Me encanta aprender cosas nuevas y los proyectos retadores!
