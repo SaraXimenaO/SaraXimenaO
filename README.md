@@ -43,7 +43,15 @@
       Libreria Moq
     Test unitarios Angular
       Jasmine
+  ### IA
+    Me encanta utilizar herramientas IA para mejorar el redimiento y legibilidad de mi código, 
+    tambien la empleo para estar a la vanguardia de las nuevas features de los lenguajes de programación que utilizo en mi día a día.
 
+    GitHub Copilot
+    MCP de Sql Server
+    Gemini
+    Grok
+    
   Desarrollo guiado por Clean code y Principios SOLID
     
 Me encanta aprender cosas nuevas y los proyectos retadores!
