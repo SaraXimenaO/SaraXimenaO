@@ -1,6 +1,5 @@
-# Hola a todos 👋
+# Ingeniera de software 🧑‍💻
 
-## Ingeniera de software
 ## Tecnologías  
   ### .NET 
     .Net Framework 4.8
