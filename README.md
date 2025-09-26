@@ -2,7 +2,7 @@
 
 ## Ingeniera de software
 ## Tecnologías  
-  .NET 
+  ### .NET 
     .Net Framework 4.8
     .Net Framework Core 3.1
     .Net Framework 6
