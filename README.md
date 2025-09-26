@@ -21,7 +21,7 @@
       BlobStorage
     Mensajeria
       Service Bus
-      Mensajes de encolamiento
+      Colas de mensajes
     Azure DevOps
       CI/CD
       Tableros de azure
